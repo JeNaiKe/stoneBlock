@@ -1,5 +1,8 @@
 1 - Run Install.bat
+1.5 - Download this file:
+-> https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2768/forge-1.12.2-14.23.5.2768-installer.jar
+-> Install the "Server" on the server folder.
 2 - Accept eula.txt file
-4 - Configure server.properties
-3 - Run LaunchServer.sh
-4 - Enjoy
+3 - Configure server.properties
+4 - Run LaunchServer.sh
+5 - Enjoy
